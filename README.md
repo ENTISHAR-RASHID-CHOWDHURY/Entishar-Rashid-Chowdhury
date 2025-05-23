@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Entishafr-Rashid-Chowdhury
 - 👀 I’m interested in ... CSE
 - 🌱 I’m currently learning ... CSE
-- 📫 How to reach me ... No Need
+- 📫 How to reach me ... [No Need]
 - ⚡ Fun fact: ... [Laughing]
 
 <!---
