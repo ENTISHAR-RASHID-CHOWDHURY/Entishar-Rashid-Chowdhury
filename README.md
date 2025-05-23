@@ -1,4 +1,4 @@
-- Hi, I’m @Entishafr-Rashid-Chowdhury
+- Hi, I’m Entishafr-Rashid-Chowdhury
 - I’m interested in ... CSE
 - I’m currently learning ... CSE
 - How to reach me ... [No Need]
