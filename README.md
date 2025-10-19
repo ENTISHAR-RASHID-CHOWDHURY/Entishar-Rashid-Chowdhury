@@ -1,7 +1,7 @@
 - I’m Entishar Rashid Chowdhury
 - I’m a Muslim
-- I’m interested in ... CSE
-- I’m currently learning ... CSE
+- I’m interested in ... Computer Science & Engineering
+- I’m currently learning ... Computer Science & Engineering
 - How to reach me ... [No Need]
 - Fun fact: ... [Laughing]
 <!---
