@@ -1,4 +1,5 @@
 - I’m Entishar Rashid Chowdhury
+- I’m a Muslim
 - I’m interested in ... CSE
 - I’m currently learning ... CSE
 - How to reach me ... [No Need]
